@@ -46,7 +46,7 @@
 ## 🤝 Connect with me:
 
 - 💼 LinkedIn: (add your link)
-- 📧 Email: (optional)
+- 📧 Email: (engmohamedshokrymodel@gmail.com)
 
 ---
 
