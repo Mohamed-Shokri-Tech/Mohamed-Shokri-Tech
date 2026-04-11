@@ -1,4 +1,4 @@
-## Hi there 👋
+## the first  time With Git Hub 👋
 
 <!--
 **Mohamed-Shokri-Tech/Mohamed-Shokri-Tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
