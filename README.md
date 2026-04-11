@@ -1,11 +1,20 @@
 # Hi there! 👋 I'm Mohamed Shokri
 
 <p align="center">
+  <img src="https://images.unsplash.com/photo-6sAl6aQ4OWI?auto=format&fit=crop&w=800&q=80" width="250"/>
+</p>
+
+<p align="center">
 <a href="https://linkedin.com/in/YOUR-LINK" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" />
 </a>&nbsp;
+
 <a href="https://github.com/YOUR-USERNAME" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30" width="30" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30" width="30" />
+</a>&nbsp;
+
+<a href="mailto:engmohamedshokrymodel@gmail.com">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="30" width="30" />
 </a>
 </p>
 
@@ -38,15 +47,8 @@
 ## 📌 What I'm Working On:
 
 - 📖 Studying Data Structures  
-- 💡 Solving problems on platforms like Codeforces  
+- 💡 Solving problems on Codeforces  
 - 🌐 Learning Web Development  
-
----
-
-## 🤝 Connect with me:
-
-- 💼 LinkedIn: (add your link)
-- 📧 Email: (engmohamedshokrymodel@gmail.com)
 
 ---
 
