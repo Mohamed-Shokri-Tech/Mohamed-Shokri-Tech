@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Mohamed Shokri
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-6sAl6aQ4OWI?auto=format&fit=crop&w=800&q=80" width="250"/>
+  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80" width="250"/>
 </p>
 
 <p align="center">
