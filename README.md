@@ -1,36 +1,45 @@
 # Hi there! 👋 I'm Mohamed Shokri
 
+---
+
+## 📸 Profile Image
+
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80" width="250"/>
+  <img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=800&q=80" width="220"/>
 </p>
 
-<p align="center">
-<a href="https://linkedin.com/in/YOUR-LINK" target="blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" />
-</a>&nbsp;
+---
 
-<a href="https://github.com/YOUR-USERNAME" target="blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30" width="30" />
-</a>&nbsp;
+## 🔗 Connect with me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/YOUR-LINK">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35"/>
+</a>
+
+<a href="https://github.com/YOUR-USERNAME">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35"/>
+</a>
 
 <a href="mailto:engmohamedshokrymodel@gmail.com">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="30" width="30" />
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="35"/>
 </a>
+
 </p>
 
 ---
 
 ## 👨‍💻 About Me:
 
-- 🎓 I'm a Computer Science student from Egypt  
-- 💻 Currently learning **Programming & Data Structures**
-- 🛠️ Interested in **C++ , Problem Solving , and Web Development**
-- 📚 Improving my English and technical skills daily
-- 🎯 My goal: Become a professional software engineer
+- 🎓 Computer Science student from Egypt  
+- 💻 Learning C++ and Data Structures  
+- 🌐 Interested in Web Development  
+- 🎯 Goal: Become a Software Engineer  
 
 ---
 
-## 🚀 Skills & Tools:
+## 🚀 Skills:
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,git,github" />
@@ -40,17 +49,25 @@
 
 ## 📊 GitHub Stats:
 
-![Mohamed's github stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=dark)
+![stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=dark)
 
 ---
 
-## 📌 What I'm Working On:
+## 🔗 Connect again (bottom)
 
-- 📖 Studying Data Structures  
-- 💡 Solving problems on Codeforces  
-- 🌐 Learning Web Development  
+<p align="center">
+
+<a href="https://linkedin.com/in/YOUR-LINK">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30"/>
+</a>
+
+<a href="mailto:engmohamedshokrymodel@gmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30"/>
+</a>
+
+</p>
 
 ---
 
 ## ⚡ Fun Fact:
-I’m trying to become better every single day 🚀
+Always improving every day 🚀
