@@ -1,28 +1,55 @@
-# Hi there! 👋 I'm Mohamed Shokri
+<h1 align="center">Hi there! 👋 I'm Mohamed Shokri</h1>
 
 ---
 
-## 📸 Profile Image
+<h2>👨‍💻 About Me</h2>
+
+<ul>
+  <li>🎓 Computer Science Student from Egypt</li>
+  <li>💻 Learning C++ and Data Structures</li>
+  <li>🌐 Interested in Web Development (HTML, CSS, JavaScript)</li>
+  <li>🎯 Goal: Become a Software Engineer</li>
+</ul>
+
+---
+
+<h2>🚀 Skills</h2>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=800&q=80" width="220"/>
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,javascript,git,github" />
 </p>
 
 ---
 
-## 🔗 Connect with me
+<h2>📂 Projects</h2>
+
+<ul>
+  <li><b>my-site</b> → static website about AI (Artificial Intelligence) (HTML/CSS)</li>
+</ul>
+
+---
+
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Shokri-Tech&show_icons=true&theme=dark" />
+</p>
+
+---
+
+<h2>🔗 Connect with me</h2>
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR-LINK">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35"/>
-</a>
-
-<a href="https://github.com/YOUR-USERNAME">
+<a href="https://github.com/Mohamed-Shokri-Tech">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35"/>
 </a>
 
-<a href="mailto:engmohamedshokrymodel@gmail.com">
+<a href="https://www.linkedin.com/in/mohamed-shokry-990383406">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35"/>
+</a>
+
+<a href="mailto:mohamedshokry.dev@gmail.com">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="35"/>
 </a>
 
@@ -30,44 +57,6 @@
 
 ---
 
-## 👨‍💻 About Me:
+<h2>⚡ Fun Fact</h2>
 
-- 🎓 Computer Science student from Egypt  
-- 💻 Learning C++ and Data Structures  
-- 🌐 Interested in Web Development  
-- 🎯 Goal: Become a Software Engineer  
-
----
-
-## 🚀 Skills:
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,git,github" />
-</p>
-
----
-
-## 📊 GitHub Stats:
-
-![stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=dark)
-
----
-
-## 🔗 Connect again (bottom)
-
-<p align="center">
-
-<a href="https://linkedin.com/in/YOUR-LINK">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30"/>
-</a>
-
-<a href="mailto:engmohamedshokrymodel@gmail.com">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30"/>
-</a>
-
-</p>
-
----
-
-## ⚡ Fun Fact:
-Always improving every day 🚀
+<p>Always improving every day 🚀</p>
